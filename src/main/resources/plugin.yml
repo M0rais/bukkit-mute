@@ -1,0 +1,8 @@
+name: BukkitMute
+version: 1.0.0
+api-version: 1.16
+main: pt.morais.github.BukkitMute
+author: Morais
+commands:
+  mute:
+  unmute:
